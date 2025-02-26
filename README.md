@@ -6,7 +6,7 @@
 [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/igor_correia06)
 <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igaododbd&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igaododbd&show&icons=true&theme=radical)
 
 
 ### Tecnologias que uso no meu dia 
